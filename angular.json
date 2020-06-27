@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-base"
+    }
+  },
+  "defaultProject": "ng-base",
+  "cli": {
+    "analytics": false
+  }
 }
